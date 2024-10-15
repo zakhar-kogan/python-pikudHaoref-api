@@ -9,7 +9,7 @@ setup(
   packages = ['tzevaadom'],
   version = '1.0',
   license='MIT',
-  description = 'A Python library for Pikud Haoref's unofficial rocket alert API.',
+  description = 'A Python library for Pikud Haoref\'s unofficial rocket alert API.',
   long_description=long_description,
   long_description_content_type='text/markdown',
   author = 'Itai Guli',
@@ -28,6 +28,11 @@ setup(
     'Programming Language :: Python :: 3.5',
     'Programming Language :: Python :: 3.6',
     'Programming Language :: Python :: 3.7',
-    'Programming Language :: Python :: 3.8'
+    'Programming Language :: Python :: 3.8',
+    'Programming Language :: Python :: 3.9',
+    'Programming Language :: Python :: 3.10',
+    'Programming Language :: Python :: 3.11',
+    'Programming Language :: Python :: 3.12',
+    'Programming Language :: Python :: 3.13',
   ],
 )
